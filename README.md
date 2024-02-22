@@ -7,11 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ronibhakta1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/c0b95ed33c81110187f3b5168ca39c33/8995ef6b2a4b563c-2d/s540x810/224a3da55fefd7d07f5dbdcdc4a27b5c66e5ab7e.gifv"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
