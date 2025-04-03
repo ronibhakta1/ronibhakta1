@@ -1,13 +1,6 @@
 <h2 align="left">Hi 👋! My name is Roni Bhakta and I'm a Full Stack web dev.</h2>
 
 ###
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ronibhakta1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
