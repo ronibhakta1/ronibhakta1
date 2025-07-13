@@ -1,7 +1,13 @@
-<h2 align="left">Hi 👋! My name is Roni Bhakta and I'm a Full Stack web dev.</h2>
+<h1 align="center">Hi, I'm Roni Bhakta 👋 A Full Stack Developer</h1>
+
+<div align="center">
+<img width="1500" height="500" alt="Github Banner" src="https://github.com/user-attachments/assets/fd5b3300-f8c7-452e-a98b-aba7523fa929" /> <img/>
+</div>
 
 ###
+
 <div align="left">
+  <!-- Your tech stack icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -14,7 +20,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
@@ -48,7 +53,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ronibhakta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Ronibhakta&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-ronibhakta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="https://www.x.com/ronibhakta1/" target="_blank">
+    <img src="https://img.shields.io/badge/-ronibhakta1-000000?style=for-the-badge&logo=x&logoColor=white" height="35" />
+  </a>
+  <a href="https://github.com/ronibhakta1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ronibhakta1-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+  </a>
+  <a href="mailto:ronibhakta1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ronibhakta1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
 
@@ -57,5 +71,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ronibhakta1/ronibhakta1/output/snake.svg" alt="Snake animation" />
-
-###
