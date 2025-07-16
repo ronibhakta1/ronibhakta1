@@ -1,4 +1,8 @@
 <h1 align="center">Hi, I'm Roni Bhakta 👋 A Full Stack Developer</h1>
+<p align="center">
+  If you want to know more about me, check out my website: 
+  <a href="https://www.ronibhakta.in/" target="_blank">ronibhakta.in</a>
+</p>
 
 <div align="center">
 <img width="1500" height="500" alt="Github Banner" src="https://github.com/user-attachments/assets/fd5b3300-f8c7-452e-a98b-aba7523fa929" /> <img/>
