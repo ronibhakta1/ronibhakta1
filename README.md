@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Roni Bhakta 👋 A Full Stack Developer</h1>
 <p align="center">
+  Co-created <a href="https://www.lennyforlibraries.org/" target="_blank">Lenny</a> an open-source digital lending system equipping libraries with affordable e-book circulation, channeling <a href="https://en.wikipedia.org/wiki/Aaron_Swartz" target="_blank">Aaron Swartz's</a> vision of universal access (co-founder of Reddit, Open Library, and RSS) via Readium LCP/OPDS with <a href="https://www.archive.org" target="_blank">Internet Archive</a>. 
+</p>
+<p align="center">
   If you want to know more about me, check out my website: 
   <a href="https://www.ronibhakta.in/" target="_blank">ronibhakta.in</a>
 </p>
