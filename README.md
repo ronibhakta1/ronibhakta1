@@ -62,8 +62,8 @@ Founded <a href="https://www.zonformat.org/" target="_blank">ZON-FORMAT</a>
   <a href="https://www.linkedin.com/in/ronibhakta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ronibhakta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="https://www.x.com/ronibhakta1/" target="_blank">
-    <img src="https://img.shields.io/badge/-ronibhakta1-000000?style=for-the-badge&logo=x&logoColor=white" height="35" />
+  <a href="https://www.x.com/ronitwtss/" target="_blank">
+    <img src="https://img.shields.io/badge/-ronitwtss-000000?style=for-the-badge&logo=x&logoColor=white" height="35" />
   </a>
   <a href="https://github.com/ronibhakta1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ronibhakta1-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
